@@ -10,11 +10,7 @@ A real-time poll web app built as part of the SDE Internship assignment for **In
 
 ---
 
-## 🎥 Demo Video
 
-📽️ [Click to Watch Demo](https://youtu.be/zW4GTGVrekI?feature=shared)  
-
----
 
 ## 🚀 Tech Stack
 
