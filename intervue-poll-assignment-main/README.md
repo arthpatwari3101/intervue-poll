@@ -3,15 +3,6 @@
 A real-time poll web app built as part of the SDE Internship assignment for **Intervue**. It enables teachers to create live polls and students to join and vote instantly, with results updating in real-time using **Socket.IO**.
 
 ---
-
-## 🌐 Live Demo
-
-🔗 [Live App on Render](https://intervue-poll-assignment-frontend.onrender.com/)
-
----
-
-
-
 ## 🚀 Tech Stack
 
 ### Frontend
